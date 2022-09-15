@@ -1,0 +1,8 @@
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\bin\Debug\PrimeConsole.exe.config
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\bin\Debug\PrimeConsole.exe
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\bin\Debug\PrimeConsole.pdb
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\obj\Debug\PrimeConsole.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\obj\Debug\PrimeConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\obj\Debug\PrimeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\obj\Debug\PrimeConsole.exe
+C:\Users\Åke\source\repos\PrimeConsole\PrimeConsole\obj\Debug\PrimeConsole.pdb

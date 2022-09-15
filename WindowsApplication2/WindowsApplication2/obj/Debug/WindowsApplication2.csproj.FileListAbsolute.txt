@@ -1,0 +1,11 @@
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.AssemblyReference.cache
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.cache
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Åke\source\repos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
